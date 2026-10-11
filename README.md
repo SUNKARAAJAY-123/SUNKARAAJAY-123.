@@ -10,25 +10,17 @@
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/ajay-sunkara123/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-  <a href="https://sunkaraajay-123.github.io/Protifolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
-  </a>
-  <a href="mailto:sunkaraajay66@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ajay" />
-  </a>
-  <a href="https://github.com/SUNKARAAJAY-123">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
+  <a href="https://www.linkedin.com/in/ajay-sunkara123/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="https://sunkaraajay-123.github.io/Protifolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
+  <a href="mailto:sunkaraajay66@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ajay" /></a>
+  <a href="https://github.com/SUNKARAAJAY-123"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 </p>
 
 📍 Gudlavalleru, Andhra Pradesh, India
 
 <p>
   <a href="https://github.com/SUNKARAAJAY-123/AI-Based-Irrigation-Management-System-For-Predictive-Water-Scheduling">
-    <img src="https://img.shields.io/badge/Explore-IrriSmart-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Explore the IrriSmart featured project" />
+    <img src="https://img.shields.io/badge/Explore-IrriSmart-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Explore the IrriSmart project" />
   </a>
   <a href="https://ai-based-irrigation-management-syst.vercel.app/">
     <img src="https://img.shields.io/badge/Launch-Live_Demo-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch the IrriSmart live demo" />
@@ -125,7 +117,7 @@ A full-stack agricultural advisory platform connecting users with crop recommend
 
 **Tech stack:** Web Development · Firebase · REST APIs
 
-<!-- Add a source-code badge here after confirming the correct repository URL. -->
+<!-- Add the verified Kisan Dost repository link when available. -->
 
 </td>
 </tr>
@@ -168,63 +160,26 @@ A full-stack agricultural advisory platform connecting users with crop recommend
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=SUNKARAAJAY-123&show_icons=true&hide_border=true&theme=tokyonight"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=SUNKARAAJAY-123&show_icons=true&hide_border=true&theme=default"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SUNKARAAJAY-123&show_icons=true&hide_border=true&theme=tokyonight"
-    height="165"
-    alt="Ajay Sunkara's GitHub statistics"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SUNKARAAJAY-123&show_icons=true&hide_border=true&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SUNKARAAJAY-123&show_icons=true&hide_border=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SUNKARAAJAY-123&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="Ajay Sunkara's GitHub statistics" />
 </picture>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNKARAAJAY-123&layout=compact&hide_border=true&theme=tokyonight"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNKARAAJAY-123&layout=compact&hide_border=true&theme=default"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNKARAAJAY-123&layout=compact&hide_border=true&theme=tokyonight"
-    height="165"
-    alt="Most-used programming languages across public GitHub repositories"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNKARAAJAY-123&layout=compact&hide_border=true&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNKARAAJAY-123&layout=compact&hide_border=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNKARAAJAY-123&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Most-used programming languages across public GitHub repositories" />
 </picture>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=SUNKARAAJAY-123&theme=tokyonight&hide_border=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com/?user=SUNKARAAJAY-123&theme=default&hide_border=true"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=SUNKARAAJAY-123&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak statistics"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SUNKARAAJAY-123&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=SUNKARAAJAY-123&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=SUNKARAAJAY-123&theme=tokyonight&hide_border=true" alt="GitHub contribution streak statistics" />
 </picture>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=SUNKARAAJAY-123&theme=tokyo-night&hide_border=true"
-  width="100%"
-  alt="GitHub contribution activity graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SUNKARAAJAY-123&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=SUNKARAAJAY-123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
-  width="100%"
-  alt="GitHub profile achievement trophies"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=SUNKARAAJAY-123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub profile achievement trophies" />
 
 </div>
 
@@ -233,19 +188,9 @@ A full-stack agricultural advisory platform connecting users with crop recommend
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SUNKARAAJAY-123/SUNKARAAJAY-123/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SUNKARAAJAY-123/SUNKARAAJAY-123/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/SUNKARAAJAY-123/SUNKARAAJAY-123/output/github-contribution-grid-snake.svg"
-    alt="Animated snake following my GitHub contribution graph"
-    width="100%"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SUNKARAAJAY-123/SUNKARAAJAY-123/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SUNKARAAJAY-123/SUNKARAAJAY-123/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/SUNKARAAJAY-123/SUNKARAAJAY-123/output/github-contribution-grid-snake.svg" alt="Animated snake following my GitHub contribution graph" width="100%" />
 </picture>
 
 </div>
@@ -261,4 +206,4 @@ A full-stack agricultural advisory platform connecting users with crop recommend
 
 ---
 
-<sub>Analytics widgets rely on public services and may occasionally be rate-limited or unavailable. For better reliability, consider self-hosting supported widgets or generating static cards with GitHub Actions.</sub>
+<sub>Analytics widgets depend on public services and may occasionally be rate-limited or unavailable. Consider self-hosting supported widgets or generating static cards with GitHub Actions for greater reliability.</sub>
