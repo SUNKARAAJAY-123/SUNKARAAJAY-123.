@@ -101,6 +101,8 @@ An AI-powered, mobile-first irrigation platform that recommends when and how muc
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-2EA44F?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-based-irrigation-management-syst.vercel.app/)
 
 [![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUNKARAAJAY-123/AI-Based-Irrigation-Management-System-For-Predictive-Water-Scheduling)
+[![Source Code]
+(https://docs.google.com/document/d/1bGFBJEGyBDpKYtzJXyE939oGe7KNcHan/edit?usp=drivesdk&ouid=102286056292378086522&rtpof=true&sd=true)
 
 </td>
 </tr>
